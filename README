@@ -1,0 +1,7 @@
+example of shell commands (from superuser):
+--setled --color green(blue, red)
+--setled --rate 0(1..5)
+--setled --state on(off)
+--getled --color 
+--getled --rate 
+--getled --state 
